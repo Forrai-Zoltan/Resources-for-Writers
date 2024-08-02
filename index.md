@@ -8,7 +8,17 @@ github_repo: https://github.com/Forrai-Zoltan/Resources-for-Writers
 
 # Welcome to My Humble Corner of the Web! 🤘🏻😊
 
- | Hi there! My name is **Zoli**, though online I'm often known as **Gildrom**. I’m a passionate *writer* and *researcher*. <br> I'm also a dedicated collector — some might even say a *hoarder*. <br> <br> I have a deep love for collecting just about anything. <br> (My room is packed to the ceiling with more books than what I could ever read in a lifetime.) <br> <br> My online habits are not dissimilar. <br> On this site, I’m curating and (slowly) organising a backlog of ~~useless~~ *insightful* resources about the **Craft of Writing**. <br> <br> Feel free to explore and enjoy! 🕳️🕵🏻‍♂️ | ![Me|300](profile-bw.png "Hey there *Handsom*!") | 
+Hi there! My name is **Zoli**, though online I'm often known as **Gildrom**. 
+I’m a passionate *writer* and *researcher*. <br>
+I'm also a dedicated collector — some might even say a *hoarder*.
+  
+I have a deep love for collecting just about anything. <br> 
+(My room is packed to the ceiling with more books than what I could ever read in a lifetime.) 
+
+My online habits are not dissimilar. <br>
+On this site, I’m curating and (slowly) organising a backlog of ~~useless~~ *insightful* resources about the **Craft of Writing**.
+
+Feel free to explore and enjoy! 🕳️🕵🏻‍♂
 
 ***
 
