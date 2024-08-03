@@ -22,9 +22,13 @@ Feel free to explore and enjoy! 🕳️🕵🏻‍♂
 
 ***
 
-## **☞** [_Social Links and Whatnot_](https://linktr.ee/gildrom "What could be on the other side of this link?")
+## **☞** _Social Links and Whatnot_
+### 🪐 [**My Personal Website**](https://forrai-zoltan.github.io/)
+### **☞** If you would like to support my work [**_click here!_**](https://buymeacoffee.com/gildrom "Hey, you dropped this, king! 👑")
+
+- 🐱🐙 [GitHub](https://github.com/Forrai-Zoltan "My GitHub.")
+- 🔗🌴 [Linktree](https://linktr.ee/gildrom "My linktree with some other links.")
+- 🐦❌ [Twitter](https://x.com/forrai_zoltan "X, formerly known as Twitter.")
+- 📸🌄 [Instagram](https://www.instagram.com/film.forrai/ "Stunning pictures!")
 
 **© 2024 Forrai Zoltán**
-
-
-
