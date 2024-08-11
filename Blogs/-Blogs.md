@@ -3,13 +3,13 @@ tags: Note-type/DB
 Note: "**Blogs Main Page**"
 TODO:
 ---
-![](Navigation-Bar)
+![](/Resources-for-Writers/Navigation-Bar.html)
 
 # 👩🏼‍💻 Blogs
 
 |     |     | 
 | --- | --- |
-|     |     |
+|  a   |     |
 
 ***
 **© 2024 Forrai Zoltán**
